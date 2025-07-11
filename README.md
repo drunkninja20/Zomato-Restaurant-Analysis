@@ -1,4 +1,4 @@
-# Bangalore Restaurant Insights - Power BI Dashboard
+# Zomato Bangalore Restaurant Insights - Power BI Dashboard
 
 ![Power BI Dashboard](https://img.shields.io/badge/Power_BI-Dashboard-yellow) 
 ![Location Analytics](https://img.shields.io/badge/Analytics-Location_Intelligence-blue)
